@@ -1,0 +1,44 @@
+Start testing: Nov 22 15:17 SE Asia Standard Time
+----------------------------------------------------------
+1/1 Testing: TutorialTests
+1/1 Test: TutorialTests
+Command: "D:/Kuliah/PMC/unit test/build/test/Debug/TutorialTests.exe"
+Directory: D:/Kuliah/PMC/unit test/build/test
+"TutorialTests" start time: Nov 22 15:17 SE Asia Standard Time
+Output:
+----------------------------------------------------------
+Running main() from D:\Kuliah\PMC\unit test\googletest\googletest\src\gtest_main.cc
+[==========] Running 4 tests from 4 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from Tutorial___Test
+[ RUN      ] Tutorial___Test.abs
+[       OK ] Tutorial___Test.abs (0 ms)
+[----------] 1 test from Tutorial___Test (0 ms total)
+
+[----------] 1 test from Tutorial__Kuad__Test
+[ RUN      ] Tutorial__Kuad__Test.kuadrat
+[       OK ] Tutorial__Kuad__Test.kuadrat (0 ms)
+[----------] 1 test from Tutorial__Kuad__Test (0 ms total)
+
+[----------] 1 test from Tutorial__Fibo__Test
+[ RUN      ] Tutorial__Fibo__Test.fibo
+[       OK ] Tutorial__Fibo__Test.fibo (0 ms)
+[----------] 1 test from Tutorial__Fibo__Test (0 ms total)
+
+[----------] 1 test from Tutorial__Max__Test
+[ RUN      ] Tutorial__Max__Test.max
+[       OK ] Tutorial__Max__Test.max (0 ms)
+[----------] 1 test from Tutorial__Max__Test (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 4 test suites ran. (0 ms total)
+[  PASSED  ] 4 tests.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"TutorialTests" end time: Nov 22 15:17 SE Asia Standard Time
+"TutorialTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 22 15:17 SE Asia Standard Time
